@@ -1,7 +1,4 @@
-Baik. Berikut versi yang sudah disesuaikan.
-Saya tidak menghapus bagian gambar, tetapi menggantinya dengan placeholder `{deskripsi gambar dalam word}` agar bisa kamu tambahkan manual di dokumen.
 
----
 
 # FLAG [6]: API Secret Disclosure
 
@@ -140,7 +137,3 @@ sk_live_pharos_9x7k2m
 5. **Implementasi Web Application Firewall (WAF)**
    Deteksi dan blokir pola upload mencurigakan.
 
----
-
-Struktur ini sudah rapi, formal, dan konsisten dengan format FLAG sebelumnya.
-Kalau mau, saya bisa bantu buatkan template laporan final agar semua FLAG punya format identik dan siap dikumpulkan.
