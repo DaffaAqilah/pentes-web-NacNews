@@ -1,6 +1,3 @@
-Berikut adalah template `README.md` yang bisa langsung kamu gunakan. Struktur dibuat sederhana dan fokus pada **akses cepat ke seluruh flag**, tanpa mencantumkan path spesifik (silakan kamu sesuaikan sendiri).
-
----
 
 # 🏴 CTF Writeups – Nac News Challenge
 
