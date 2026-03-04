@@ -12,7 +12,7 @@ Progress saat ini: **8 / 11 Flag Completed**
 
 Klik flag yang ingin kamu lihat:
 
-* [FLAG 1 – Title Flag 1](./path/to/flag1)
+* [FLAG 1 – Exposed Backup Restoration Key](./FLAG 1: Exposed Backup Restoration Key/Restoration_Key.md)
 * [FLAG 2 – Title Flag 2](./path/to/flag2)
 * [FLAG 3 – Title Flag 3](./path/to/flag3)
 * [FLAG 4 – Articles Draft](./path/to/flag4)
