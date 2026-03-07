@@ -35,6 +35,7 @@ Setelah menekan tombol **Preview**, *server* NacNews meneruskan permintaan kita 
 **Bukti Flag Benar:**
 `v3.7.2-ptolemy`
 
+![flag.](flag_5.jpeg)
 ---
 
 ### Vulnerability Assessment
