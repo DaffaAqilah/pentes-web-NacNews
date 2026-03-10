@@ -19,7 +19,7 @@ Klik flag yang ingin kamu lihat:
 * [FLAG 5 – Internal API Version](./FLAG%205%3A%20Internal%20API%20Version)
 * [FLAG 6 – Api Secret](./FLAG%206:%20API%20Secret%20Disclosure/Api_Secret.md)
 * [FLAG 7 – RSS Injection](./FLAG%207:%20RSS%20Import%20Exploit/main.md)
-* [FLAG 8 – Title Flag 8](.FLAG%208%3A%20Decrypting%20Admin%20Secrets/admin_secrets.md)
+* [FLAG 8 –  Decrypting Admin Secrets](./FLAG%208%3A%20Decrypting%20Admin%20Secrets/admin_secrets.md)
 * [FLAG 9 – Coming Soon](./path/to/flag9)
 * [FLAG 10 – Coming Soon](./path/to/flag10)
 * [FLAG 11 – Coming Soon](./path/to/flag11)
