@@ -45,7 +45,7 @@ Setelah memasukkan *ciphertext* ke dalam input, CyberChef langsung memunculkan t
 
 **Bukti Flag Benar:**
 `the_great_library_never_burned`
-![Bukti Flag 8](image_874126.png)
+![Bukti Flag 8](flag_8.png)
 
 ---
 
