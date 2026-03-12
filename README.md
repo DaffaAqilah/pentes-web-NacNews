@@ -23,7 +23,6 @@ Klik flag yang ingin kamu lihat:
 * [FLAG 9 – Coming Soon](./path/to/flag9)
 * [FLAG 10 – Coming Soon](./path/to/flag10)
 * [FLAG 11 – Coming Soon](./path/to/flag11)
-* [FLAG 12 – Coming Soon](./path/to/flag12)
 
 
 ---
@@ -43,7 +42,6 @@ Klik flag yang ingin kamu lihat:
 | 9    | –                                     | ⏳ Not Solved |
 | 10   | –                                     | ⏳ Not Solved |
 | 11   | –                                     | ⏳ Not Solved |
-| 12   | –                                     | ⏳ Not Solved |
 
 ---
 ## 🎯 Objective
